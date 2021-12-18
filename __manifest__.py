@@ -7,7 +7,7 @@
     "category": "IoT",
     "author": "Creu Blanca , "
             "thingsintouch.com",
-    "website": "https://github.com/OCA/iot",
+    "website": "https://github.com/thingsintouch/ras-template",
     "license": "AGPL-3",
     "installable": True,
     "summary": "Template to define new RAS Devices for OCA-IoT Modules",
