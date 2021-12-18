@@ -1,8 +1,8 @@
 =================================================
-Template to configure new RFID Attendance devices
+Template to configure new RFID Attendance Devices
 =================================================
 
-This template delivers the configuration needed to define new devices on the OCA-IoT Modules.
+This template delivers the configuration needed to define new RAS2 devices on the OCA-IoT Modules.
 
 
 Credits
